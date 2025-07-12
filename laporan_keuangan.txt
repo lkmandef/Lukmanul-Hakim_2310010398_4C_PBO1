@@ -1,4 +1,0 @@
-Laporan Keuangan
-Pemasukan: Rp 100000
-Pengeluaran: Rp 10000
-Saldo akhir: Rp 90000
